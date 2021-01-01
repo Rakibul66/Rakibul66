@@ -21,10 +21,16 @@ I'm Rakibul hasan,Native Mobile Apps Developer and Blogger on [Blogger](https://
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
 
-#### Github Stats
-
-![Rakibul github stats](https://github-readme-stats.vercel.app/api?username=Rakibul66&count_private=true&theme=tokyonight&hide=contribs,prs)
+#### Secondary Contact
+- :paperclip: [My Resume/CV](https://rakibulcse14.blogspot.com/)
+- :email: rakibul66h@gmail.com
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakibul66.Rakibul66)
+
+#### Github Stats
+
+![Rakibul github stats](https://github-readme-stats.vercel.app/api?username=Rakibul66&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
