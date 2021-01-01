@@ -33,4 +33,8 @@ I'm Rakibul hasan,Native Mobile Apps Developer and Blogger on [Blogger](https://
 
 ![Rakibul github stats](https://github-readme-stats.vercel.app/api?username=Rakibul66&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul66&layout=compact&theme=radical" alt="Rakibul"/>
+</a>
+
 
