@@ -26,7 +26,7 @@ I'm Rakibul hasan,Native Mobile Apps Developer and Blogger on [Blogger](https://
 </a>
 
 #### Secondary Contact
-- :paperclip: [My Resume/CV](https://rakibulcse14.blogspot.com/)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1AUOeftgPwFwV3GZxQ4k0IFpeHRYkXD9o/view?usp=sharing)
 - :email: rakibul66h@gmail.com
 
 #### Profile Visits 
