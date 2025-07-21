@@ -9,14 +9,16 @@
 
 ---
 
-🎯 I'm Rakibul Hasan, a **Native Mobile App Developer** and content creator. I specialize in building scalable Android & iOS apps using **Flutter, Jetpack Compose, Kotlin**, and modern UI/UX techniques.  
-I also run a tech blog on [Blogger](https://techhead365.blogspot.com/) and love to share my knowledge through tutorials and open-source projects.
+🎯 I'm Rakibul Hasan, a **Native Mobile App Developer** . I specialize in building scalable Android & iOS apps using **Flutter, Jetpack Compose, Kotlin**, and modern UI/UX techniques.  
+I also run a tech blog on [Blogger](https://techhead365.blogspot.com/).
+and My Project Portfolio: [Project](https://rakibul66.github.io/Rakibuldroid/).
+
 
 ---
 
 ### 🚀 Professional Highlights
 
-- 🔧 **Flutter Engineer** at [SuperSaver](https://supersaver.com) *(Part-Time)*
+- 🔧 **Flutter Engineer** at [SuperSaver] *(Part-Time)*
 - 🎨 **CodeCanyon Author** – 100+ sales
 - 🛠 **Level 2 Seller on Fiverr** – Delivered 4+ real-time projects
 - 🌟 **Rising Talent on Upwork**
@@ -28,10 +30,6 @@ I also run a tech blog on [Blogger](https://techhead365.blogspot.com/) and love 
 ### 📫 Let's Connect
 
 - 📨 Email: **roxyhasan76@gmail.com**
-- 🌍 Portfolio: [Rakibul's Portfolio](https://sites.google.com/view/rakibulhasancse14/home)
-- 🧑‍💼 Fiverr: [Visit My Gig](https://www.fiverr.com/)
-- 💼 Upwork: [My Upwork Profile](https://www.upwork.com/)
-- 📹 Blogger: [CS Reviews Blog](https://csereviews.blogspot.com/)
 
 ---
 
