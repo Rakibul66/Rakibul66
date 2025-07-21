@@ -68,9 +68,12 @@ and My Project Portfolio: [Project](https://rakibul66.github.io/Rakibuldroid/).
 
 ---
 
+
+
 ### 🧿 Visitor Counter
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rakibul66.Rakibul66)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rakibul66.Rakibul66)
+
 
 ---
 
