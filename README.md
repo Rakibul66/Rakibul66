@@ -17,7 +17,38 @@ I'm Rakibul hasan,Native Mobile Apps Developer and Blogger on [Blogger](https://
 
 - ⚡ Fun fact **i really like what i'm doing**
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </p>
+<p align="left">
+  <!-- Flutter -->
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  
+  <!-- SwiftUI (Using Apple Logo for SwiftUI, no official SwiftUI icon available) -->
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="swiftui" width="40" height="40"/>
+  
+  <!-- Kotlin -->
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  
+  <!-- Jetpack Compose (Using Android logo due to lack of Compose-specific icon) -->
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="jetpack compose" width="40" height="40"/>
+  
+  <!-- REST API (Using generic API icon) -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-api-coding-and-development-flat-flat-juicy-fish.png" alt="rest api" width="40" height="40"/>
+  
+  <!-- Firebase -->
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  
+  <!-- MySQL -->
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+  
+  <!-- C++ -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/>
+  
+  <!-- Java -->
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  
+  <!-- Dart -->
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+</p>
+
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul66&layout=compact&theme=radical" alt="Rakibul"/>
