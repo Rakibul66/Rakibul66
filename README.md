@@ -5,85 +5,68 @@
 
 <p align="center">
   <b>
-    🦀 Rust Backend Engineer · 🍎 SwiftUI iOS Developer · 💙 Flutter Cross-Platform Expert<br/>
+    🚀 CEO at Bponi · 💙 Flutter & Native Android Expert · 🌐 Next.js & Full-Stack Developer<br/>
     🎯 CodeCanyon Author · 🔥 Level 2 Fiverr Seller · 🌱 Rising Talent on Upwork
   </b>
 </p>
 
 ---
 
-🎯 I'm **Rakibul Hasan**, a **full-stack mobile & backend engineer** focused on building **high-performance, scalable products**.  
-I specialize in **Rust-powered backends**, **SwiftUI iOS apps**, and **Flutter cross-platform solutions**, with strong experience in **native Android (Jetpack Compose)** and **modern web frontends**.
+🎯 I'm **Rakibul Hasan**, a **Full-Stack Mobile & Software Engineer** and **CEO at Bponi**. I specialize in crafting robust digital ecosystems, scalable SaaS platforms, and high-performance mobile applications. 
 
-📖 I also write on tech & development at  
-👉 **Blog:** https://techhead365.blogspot.com/  
-🚀 **Portfolio:** https://rakibul66.github.io/Rakibuldroid/
+From mastering complex cross-platform architecture to designing ultra-clean, modern web frontends, I focus on turning complex technical requirements into smooth, production-ready user experiences.
+
+🚀 **Portfolio:** https://rakibul-hr.vercel.app/
 
 ---
 
-## 🚀 What I Do (2025 Focus)
-
-- 🦀 **Rust Backend Development**
-  - High-performance APIs (REST / GraphQL)
-  - Secure, scalable server architecture
-  - Database-driven systems (PostgreSQL, MySQL)
-  - Clean, production-ready backend design
-
-- 🍎 **SwiftUI iOS / tvOS Apps**
-  - Native Apple-ecosystem apps
-  - AVPlayer, background audio, Apple TV
-  - Smooth animations & modern UI
-  - MVVM & clean SwiftUI architecture
+## 🛠 What I Do
 
 - 💙 **Flutter Cross-Platform Apps**
-  - Android · iOS · Web
-  - Clean Architecture / MVVM
-  - Firebase & API integrations
-  - Offline-first & scalable codebases
+  - Advanced architecture designed for scale (Clean Architecture / MVVM)
+  - Offline-first capabilities & state management expert
+  - Seamless Firebase and complex REST/GraphQL API integrations
 
-- 🤖 **Android Native (Jetpack Compose)**
-  - Modern UI with Compose
-  - Kotlin-first architecture
-  - Performance-focused native apps
+- 🤖 **Native Android Development**
+  - Modern, declarative UI building with **Jetpack Compose**
+  - Deep Kotlin-first architecture and performance optimization
 
-- 🌐 **Modern Web Frontend**
-  - **Vue.js**
-  - **Next.js**
-  - **Tailwind CSS**
-  - Responsive, SEO-friendly UI
+- 🌐 **Modern Full-Stack Web Frontends**
+  - **Next.js & TypeScript** for highly responsive, SEO-friendly web apps
+  - Styled with **Tailwind CSS & Shadcn UI** for clean, modern interface design
+  - Serverless architecture and real-time database management via **Firebase**
+
+- 🦀 **Backend & Systems**
+  - Database-driven architecture and high-performance server structures
 
 ---
 
 ## 🏆 Professional Highlights
 
-- 🔧 **Flutter Engineer** at **SuperSaver** *(Part-Time)*
-- 🎨 **CodeCanyon Author** – 100+ sales  
-  👉 https://codecanyon.net/user/apptionary/
-- 🛠 **Level 2 Seller on Fiverr** – Real-world production apps
-- 🌟 **Rising Talent on Upwork**
-- 🧠 Strong believer in **Clean Architecture & Long-Term Maintainability**
+- 💼 **CEO** at **Bponi** – Directing product strategy and digital ecosystems (including Bponi Suite)
+- 🎨 **CodeCanyon Author** – Building and scaling commercial digital products and app templates
+- 🛠 **Level 2 Seller on Fiverr** & **Rising Talent on Upwork** – Delivering production-ready mobile apps for global clients
+- 🧠 Strong believer in **Clean Typography, Deliberate White Space, and Long-Term Maintainability**
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Mobile & Backend
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" alt="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" alt="Android Native"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" alt="Kotlin"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" alt="Rust"/>
 </p>
 
-### Web & Tools
+### Web, UI & Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" alt="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" alt="TypeScript"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
 </p>
 
 ---
@@ -100,17 +83,16 @@ I specialize in **Rust-powered backends**, **SwiftUI iOS apps**, and **Flutter c
 
 ## 🧭 Developer Mindset
 
-- 🚀 Performance & scalability first
-- 🧼 Clean code > quick hacks
-- 🎨 UI/UX matters as much as logic
-- 🧠 Always learning, always improving
+- 🧼 **Clean Code > Quick Hacks:** Writing clear, self-documenting code built for the long haul.
+- 🎨 **UI/UX is Logic:** Clean spacing, sharp typography, and effortless navigation make or break a product.
+- 📈 **Performance-First:** Minimizing lag, optimizing build weights, and ensuring snappy transitions.
 
 ---
 
 ## 📫 Let’s Connect
 
 - 📧 **Email:** roxyhasan76@gmail.com
-- 💼 **CodeCanyon:** https://codecanyon.net/user/apptionary/
+- 🌐 **Portfolio:** https://rakibul-hr.vercel.app/
 
 ---
 
